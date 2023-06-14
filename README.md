@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://github.com/brayang222/Brayan/blob/main/update.svg"/>
 
 
