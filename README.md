@@ -1,7 +1,6 @@
 
 <img src="https://github.com/brayang222/Brayan/blob/main/update.svg"/>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/BrayanGmz_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/BrayanGmz_)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaronzz)
