@@ -1,7 +1,6 @@
 
 <img src="https://github.com/brayang222/Brayan/blob/main/update.svg"/>
 
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
