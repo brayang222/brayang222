@@ -12,7 +12,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         python: ["DataBase"]
+         Php: ["DataBase"]
       },
       databases: ["mySQL", "SQLServer"],
    },
