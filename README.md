@@ -3,20 +3,20 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, PHP, CSharp, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap"]
+         js: ["React", "Next JS"],
+         css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"],
-         Php: ["DataBase"]
+         JAVA: ["SpringBoot"],
+         Php
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["MySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Hiring!"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
