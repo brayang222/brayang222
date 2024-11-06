@@ -3,11 +3,11 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, PHP, CSharp, Java],
+   code: [Javascript, HTML, CSS, PHP, Java],
    technologies: {
       frontEnd: {
          js: ["React", "Next JS"],
-         css: ["Bootstrap", "Tailwind"]
+         css: ["Bootstrap", "Tailwind CSS"]
       },
       backEnd: {
          js: ["Node", "Express"],
